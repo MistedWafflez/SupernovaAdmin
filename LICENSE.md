@@ -1,5 +1,5 @@
 
-Copyright (c) 2024-2025 MistedWafflez (https://github.com/MistedWafflez/)
+Copyright (c) 2024 MistedWafflez (https://github.com/MistedWafflez/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,7 +18,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The author reserves the right to update or modify this license for future versions of the Software. Continued use of updated versions implies acceptance of the revised terms.
-
-Violation of these terms may result in revocation of license rights and potential reporting to Roblox moderation or legal action.
